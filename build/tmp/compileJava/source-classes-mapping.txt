@@ -1,4 +1,8 @@
+chuehyu/Student.java
+ chuehyu.Student
 chuehyu/Scoring.java
  chuehyu.Scoring
 chuehyu/Hello.java
  chuehyu.Hello
+chuehyu/Scoring2.java
+ chuehyu.Scoring2
