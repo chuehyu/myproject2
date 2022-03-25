@@ -10,6 +10,6 @@ public class Tester {
                 Ticket.KAOHSIUNG_STATION);
         Scanner scanner = new Scanner(System.in);
         System.out.println("Your start station?(1:Taipei, 2:Taichung, 3:Kaohsiung)");
-        Station
+    }
 
 }
