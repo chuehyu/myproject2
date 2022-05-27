@@ -10,8 +10,8 @@ public class GuessFrame  extends JFrame {
     //Constructors
     public GuessFrame() {
         super();
-        setSize(600,400);
-        setLocation(300,200);
+        setSize(400,200);
+        setLocation(100,50);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         JButton button = new JButton("Hi");
         JLabel label = new JLabel("Zzzz...");
