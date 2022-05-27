@@ -10,7 +10,7 @@ public class MyWin {
         //swing, SWT, JavaFX
         //eXtension
         JFrame frame = new JFrame();
-        frame.setSize(600,400);
+        frame.setSize(400,200);
         frame.setLocation(300,200);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         //add Component
